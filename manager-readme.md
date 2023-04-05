@@ -59,3 +59,5 @@ Currently just 1 tiny dog, Pretzel - 9-ish year-old Terrier/Chihuahua mix. Small
 
 ### Coffee
 Coffee is life. Current daily driver is pourovers (from a variety of roasters) in a Kalita Wave. Occasional Aeropress. Dreaming of enough kitchen space for an espresso machine.
+
+h/t to Adam Whitlock <[alloydwhitlock](https://github.com/alloydwhitlock)> for the inspiration, formatting and outline.
