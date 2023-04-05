@@ -5,7 +5,7 @@
 
 My name is Rob Braden(pronouns he/him) and I am an engineering leader. I currently live in Portland, OR, USA with my wife and son, and I have an adult daughter as well. 
 
-Most of my career has been with operations or ops-adjacent teams. I have a strong affinity for DevOps and SRE practices and philosophies: consistency, standards, reproducability, automation and toil reduction. I care about ensuring that teams follow good practices, are focused on delivering good results rooted in a solid understanding of the problems that we are solving and well-defined desired outcomes.
+Most of my career has been with operations or ops-adjacent teams. I have a strong affinity for DevOps and SRE practices and philosophies: consistency, standards, reproducability, automation and toil reduction. I care about ensuring that teams follow good practices that help facilitate the work without adding unnecessary friction. We are focused on delivering good results for our customers. Our work should be rooted in a solid understanding of the problems that we are solving and well-defined desired outcomes.
 
 
 ## Meetings
