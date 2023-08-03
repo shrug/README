@@ -37,7 +37,7 @@ Accountability follows from integrity. We will strive meet our commitments to ou
 I default to full transparency, barring legal or confidentiality issues. If I am able to talk about something, I am happy to. An important part of my job is to give the team as much context as possible to help guide the work and enable the team to make good decisions. If there is something you are interested in, just ask and I will be happy to discuss it (assuming no other constraints).
 
 ### Lead By Example
-Our culture and values (both at the team and personal level) are directly reflected in the way that we work with others. We consistently aim to treat others in the way that we want to be treated and we model the bahavior that . As the subject matter experts in our area, we will strive to understand the requirements, constraints and desired outcomes of our customers. We will work closely with them, using our particular expertise, to find a good, sustainable solution.
+Our culture and values (both at the team and personal level) are directly reflected in the way that we work with others. We consistently aim to treat others in the way that we want to be treated and we model the behavior that we would like to see. As the subject matter experts in our area, we will strive to understand the requirements, constraints and desired outcomes of our customers. We will work closely with them, using our particular expertise, to find a good, sustainable solution.
 
 ### Patience, Especially With People
 Not everyone is you and not everyone may be having a good day/month/year/decade. 
